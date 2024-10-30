@@ -1,0 +1,23 @@
+{
+  "name": "themekraft/buddyforms-hierarchical-posts",
+  "description": "BuddyForms Hierarchical Posts like Journal/logs",
+  "type": "wordpress-plugin",
+  "keywords": ["hierarchical","hierarchical posts", "hierarchical post", "page", "pages", "custom post types", "hierarchically", "frontend posting", "frontend editing", "post relations", "posts relations"],
+  "homepage": "http://buddyforms.com/downloads/buddyforms-hierarchical-posts/",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Sven Lehnert",
+      "email": "svenl@themekraft.com"
+    },
+    {
+      "name": "Guillermo Figueroa Mesa",
+      "email": "gfirem@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require-dev": {
+    "consolidation/robo": "^1.0.0",
+    "bamarni/composer-bin-plugin": "dev-master"
+  }
+}
